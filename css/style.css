@@ -1,0 +1,46 @@
+.navigation {
+  height: 150px;
+  width: auto;
+}
+
+.login {
+  position: absolute;
+  right: 1%;
+  font-size: 20px;
+  border-radius: 5px;
+  color: white;
+  background-color: #5599FF;
+}
+
+.title {
+  text-align: center;
+  font-size: 60pt;
+}
+
+.container {
+  text-align: center;
+}
+
+.search {
+  width: 100%;
+  padding-top: 1cm;
+}
+
+.searchbar {
+  width: 40%;
+  height: 40px;
+  font-size: 25px;
+}
+
+.submits {
+  font-size: 25px;
+  width: 100%;
+  padding-top: 1cm;
+}
+
+.submitbtn {
+  border-radius: 5px;
+  color: white;
+  background-color: #5599FF;
+  font-size: 25px;
+}
